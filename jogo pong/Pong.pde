@@ -8,7 +8,7 @@ float maxBallSpeed = 12;
 float speedIncrease = 0.1;
 
 // Constantes do jogo
-final int SCORE_LIMIT = 15;
+final int SCORE_LIMIT = 8;
 final int TIME_ATTACK_DURATION = 120; // 2 minutos em segundos
 final int SURVIVAL_SPEED_INCREASE_INTERVAL = 30; // Aumenta a velocidade a cada 30 segundos
 
